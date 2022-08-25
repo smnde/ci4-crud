@@ -1,8 +1,5 @@
 {
   "dependencies": {
     "jqueryui": "^1.11.1"
-  },
-  "require": {
-	"php": "^7.4"
   }
 }
